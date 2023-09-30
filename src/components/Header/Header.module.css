@@ -1,0 +1,28 @@
+
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-family: cursive , monospace;
+}
+
+.navbar .leftNav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+}
+
+.navbar .leftNav p {
+    font-size: 20px;
+}
+
+.navbar .leftNav img {
+    height: 50px;
+}
+
+.navbar .rightNav p {
+    font-size: 20px;
+}
